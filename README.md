@@ -2,7 +2,7 @@
 
 The project I created to understand React concepts.
 
-Used React, Redux, Hooks, Module css
+Used React, Redux, Hooks, Module.css
 
 # Running the code
 
