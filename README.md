@@ -1,6 +1,6 @@
 # React Redux RioShop Project
 
-The project I created to understand React concepts.
+I created The project to understand React concepts.
 
 Used React, Redux, Hooks, Module.css
 
